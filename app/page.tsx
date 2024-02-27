@@ -16,7 +16,8 @@ export default function Home() {
                deepak rawat
             </Link>
             <Link
-               href={"/"}
+               href={"https://github.com/deepakrawat31/stakehub"}
+               target="_blank"
                className="p-2 bg-amber-400 rounded-full text-zinc-900 hover:scale-105 transition-transform ease-in-out"
             >
                <IconBrandGithub />
